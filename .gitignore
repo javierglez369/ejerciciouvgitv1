@@ -1,0 +1,25 @@
+# mi-proyecto/.gitignore
+
+# Logs de cualquier herramienta
+*.log
+
+# Archivos temporales
+*.tmp
+temp/
+
+# Dependencias (si se añade npm en el futuro)
+node_modules/
+
+# Artefactos del sistema operativo
+.DS_Store        # macOS
+Thumbs.db        # Windows
+desktop.ini      # Windows
+
+# Directorios de compilación
+/dist
+/build
+
+# Variables de entorno (NUNCA versionar credenciales)
+.env
+.env.local
+.env.*.local

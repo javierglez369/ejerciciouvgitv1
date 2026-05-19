@@ -33,3 +33,7 @@ Este proyecto es ideal para:
 ---
 
 Proyecto creado el 17 de mayo de 2026
+
+
+
+En desarrollo activo

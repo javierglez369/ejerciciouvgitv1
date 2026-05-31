@@ -38,4 +38,4 @@ Proyecto creado el 17 de mayo de 2026
 
 En desarrollo activo
 
-# Proyecto de Práctica para el curso de Git/Github de la Universidad Veracruzana - Rama A
+# Proyecto de Práctica para el curso de Git/Github de la Universidad Veracruzana

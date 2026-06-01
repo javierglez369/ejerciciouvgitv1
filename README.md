@@ -24,6 +24,9 @@ Este proyecto es ideal para:
 - Practicar con repositorios locales y remotos
 - Familiarizarse con flujos de trabajo colaborativos
 
+## Tecnologías
+HTML5, CSS3, JS
+
 ## Instrucciones de uso
 
 1. Clonar el repositorio

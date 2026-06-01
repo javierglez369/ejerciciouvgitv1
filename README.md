@@ -25,7 +25,7 @@ Este proyecto es ideal para:
 - Familiarizarse con flujos de trabajo colaborativos
 
 ## Tecnologías
-HTML5, CSS3, JS
+HTML5, CSS3, ES6
 
 ## Instrucciones de uso
 

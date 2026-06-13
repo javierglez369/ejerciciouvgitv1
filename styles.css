@@ -19,3 +19,9 @@ nav ul {
 footer {
   padding: 1rem;
 }
+
+/*Estilos en la sección de servicios*/
+#servicios {
+  background: #f0f0f0;
+  padding: 2rem;
+}
